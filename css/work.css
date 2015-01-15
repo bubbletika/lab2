@@ -1,0 +1,69 @@
+.panel-body {
+	background-color: #76A698;
+	text-shadow: none; 
+}
+
+.panel-title {
+	text-decoration: none;
+}
+
+.panel-heading:hover,
+.panel-heading a:hover {
+	color: MintGreen;
+	background-color: IndianRed;
+	border-color: IndianRed;
+	text-decoration: none; 
+}
+
+
+body {
+	background-color: #333;
+}
+
+a {
+	color: MintCream;
+}
+
+h5 {
+	text-align: center; 
+	color: #333
+}
+.jumbotron {
+	background-color: MintCream;
+	text-align: center;
+}
+
+.jumbotron h1 {
+	color: IndianRed;
+	font-weight: 500;
+}
+
+.navbar-fixed-bottom {
+	padding-top: 0px; 
+	padding-bottom: 0px;
+	margin-top: 30px; 
+	background-color: MintCream;
+	text-align: center;
+}
+
+.navbar-fixed-bottom li {
+	display: inline;
+}
+
+.navbar-fixed-bottom .btn {
+	margin-top: 5px; 
+	margin-bottom: 0px; 
+	padding: 15px 15px; 
+	background-color: #8F4141;
+	color: white;
+}
+
+.navbar-fixed-bottom .btn:hover {
+	background-color: #76a698;
+	color: MintCream;
+}
+
+.active .btn {
+	background-color: #76a698;
+	color: MintCream;
+}
